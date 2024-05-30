@@ -1,11 +1,5 @@
 # MovieTime
 
-Sure, here's a concise README file based on the key points from the tutorial:
-
----
-
-# Movie Search App
-
 A React application to search for and display movie information using the OMDB API. Built with React Hooks (useState, useEffect, useReducer).
 
 ## Features
